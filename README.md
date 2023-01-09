@@ -14,7 +14,7 @@ This apps allows a student to introduce themselves with information. Some inform
 
  
   
-<img src=https://im.ezgif.com/tmp/ezgif-1-5812558959.webp width=200>><br>
+<img src=https://im.ezgif.com/tmp/ezgif-1-5812558959.webp width=300><br>
 
 
 
